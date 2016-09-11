@@ -19,3 +19,5 @@ float sm_cos(float);
 float sm_asin(float);
 float sm_acos(float);
 float sm_atan(float);
+
+int sm_fibo(int);
